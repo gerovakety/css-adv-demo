@@ -1,0 +1,9 @@
+@import url('/assets/Earth.jpg');
+
+body {
+    background-color: aliceblue;
+}
+
+img {
+    width: 20%;
+}
